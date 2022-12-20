@@ -1,0 +1,207 @@
+    .home-header-container{
+    height: 60px ;
+    width: 100%;
+
+
+    .home-header-content{
+        width: 100%;
+        height: 70px;
+        display: flex;
+        margin: 10px 0;
+
+        .left-conter{
+            width: 25%;
+            display: flex;
+            .header-logo{
+                background: url("../../assets/bookingcare-2020.svg") center center no-repeat;
+                width: 50%;
+                height: 50%;
+                margin-top: 8px;
+            
+                
+
+            }
+            .bar{ 
+               margin: 15px 15px 0 20px ;
+               font-size: 20px;
+                
+            }
+        }
+        .center-conter{
+            width: 50%;
+            display: flex;
+            .chirld-content{
+                margin: 8px 15px;
+                .sub-title{ 
+                    font-size: 11px;
+                    font-weight: 400;
+                }
+            }
+
+        }
+        .right-conter{
+            width: 25%;
+            display: flex;
+            align-items: center;
+            justify-content: right;
+            i{
+                border-radius: 100%;
+                background-color: #67e6e3bd;
+                padding: 3px;
+                font-size: 9px;
+                margin: 2px;
+               cursor: pointer;
+
+            
+            }
+            .language-vi{
+               margin: 5px;
+               cursor: pointer;
+               opacity: 0.2;
+               &.active{
+                opacity: 1;
+                span{
+              
+                color: rgb(113, 189, 246);
+               }
+           
+            }
+            &:hover{
+                opacity: 1; color: rgb(113, 189, 246);
+
+               }
+            }
+            .language-en{
+                margin: 15px;
+               opacity: 0.2;
+               cursor: pointer;
+               &.active{
+               opacity: 1;
+                span{
+                color: rgb(109, 225, 77);
+               }
+            }
+            &:hover{
+                color: rgb(109, 225, 77);
+                opacity: 1; 
+
+               }
+
+            }
+
+        }
+
+    }
+ }
+
+ .home-heder-banner{
+    background-image: url("../../assets/bg.jpg");
+    height: 485px;
+    background-repeat:no-repeat ;
+    background-size:cover ;
+    background-position:center ;
+    flex-direction: column;
+    display: flex;
+    opacity: 0.95;
+   .content-up{
+    background-image: linear-gradient(rgba(126,126,126,0.25),rgba(255,255,255,0.1));
+    padding-top: 15px;
+    height: 65%;
+    .title1{
+        padding-top: 50px;
+        font-size: 32px;
+        color: #fff;
+    text-align: center;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px #333;
+
+    }
+    .title2{
+        font-size: 32px;
+        color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px #333;
+    margin-bottom: 15px;
+    }
+    .search{
+        width: fit-content;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto  ;
+        padding: 10px;
+        border-radius: 25px;
+        background: #f7d800;
+        i{
+            margin: 0 5px;
+        }  
+        input{
+            height: 30px;
+            width: 360px  ;
+            border: none;
+            background: transparent;
+            outline: none;
+        } 
+
+    }
+
+   }
+  
+  .content-down{
+    height: 100%;
+   
+    
+
+
+    .options{
+        display: flex;
+        height: 100%;
+        justify-content: center;
+        align-items: self-end;
+        background-image: linear-gradient(rgba(255, 255, 255, 0.1),rgba(255, 255, 255, 0.9),rgba(255, 255, 255, 1));
+        padding-bottom: 5px;
+      
+        .option-child{
+            width: 10%;
+            text-align: center;
+            margin: 0 15px;
+            padding-bottom: 20px;
+            font-size: 35px;
+       
+
+
+            i{
+            width: 40px;
+            height: 40px;
+            background: rgb(249, 255, 249);
+            margin: 0 auto;
+            padding: 10px;
+            border-radius:50% ;
+            text-align: center;
+            color: rgb(14, 78, 78);
+
+            }
+            .text-child{
+                font-size: 17px;
+                font-weight: 500;
+            }
+        }
+
+    }
+  }
+ }
+ 
+
+
+
+
+ 
+
+    
+    
+
+
+        
+    

@@ -1,0 +1,44 @@
+.manage-schedule {
+
+    .m-s-title {
+        margin: 15px auto;
+        text-transform: uppercase;
+        font-weight: 600;
+        font-size: 17px;
+        text-align: center;
+    }
+
+    .pick-hour-container {
+        margin-top: 20px;
+        height: 45px;
+        border: 1px red solid;
+        display: flex;
+
+
+
+
+
+    }
+
+
+    .Save {
+        margin-top: 10px;
+    }
+}
+
+.timeSchedule {
+
+    border: 1px solid gray;
+    margin: 10px 22px;
+    opacity: 0.8;
+
+    &:hover {
+        opacity: 1;
+        background-color: rgb(208, 207, 207);
+    }
+
+    &.active {
+        background-color: aqua;
+    }
+
+}

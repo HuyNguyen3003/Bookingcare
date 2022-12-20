@@ -1,0 +1,135 @@
+{
+    "login": {
+        "login": "Login",
+        "username": "Username",
+        "password": "Password",
+        "userpass-wrong": "Invalid username or password!"
+    },
+    "menu": {
+        "system": {
+            "header": "System",
+            "system-administrator": {
+                "header": "System Administrator",
+                "user-manage": "User manage",
+                "user-redux": "manage user redux",
+                "register-package-group-or-account": "Register service package for group/account"
+            },
+            "system-parameter": {
+                "header": "System-parameter"
+            }
+        },
+        "admin": {
+            "manage-user": "Manage",
+            "manage-docter": "Manage docter",
+            "manage-admin": "Manage admin",
+            "crud": "crud user",
+            "crud-redux": "crud user redux",
+            "manage-clinic": "manage clinic",
+            "manage-post": "Quản lí bài đăng",
+            "clinic": "Clinic",
+            "post": "Post",
+            "specialty": "Specialty",
+            "manage-specialty": "Specialty manage"
+        },
+        "doctor": {
+            "manage-schedule": "Manage doctor's schedule",
+            "manage-patient": "Patient management"
+        }
+    },
+    "homeheader": {
+        "speciality": "speciality",
+        "search-docter": "Find a doctor by specialty",
+        "Health-facilitie": "Health facilities",
+        "Docter": "Docter",
+        "health-check": "Health checkup package",
+        "Choose-clinic": "Choose clinic",
+        "Choose-good-doctor": "Choose a good doctor",
+        "health-check-full": "health check full",
+        "suport": "Suport",
+        "welcome": "Welcome"
+    },
+    "banner": {
+        "title1": "MEDICAL BACKGROUND",
+        "title2": "COMPREHENSIVE HEALTH CARE",
+        "search": "Find a medical specialist ",
+        "child1": "specialist examination",
+        "child2": "Remote examination",
+        "child3": "Medical test",
+        "child4": "Mental health",
+        "child5": "Dental examination"
+    },
+    "manageuser": {
+        "add": "Add new user",
+        "phone": "Phone number",
+        "address": "Address",
+        "firstName": "First name",
+        "lastName": "Last name",
+        "password": "Password",
+        "gender": "Gender",
+        "1": "Nam",
+        "2": "Nữ",
+        "3": "Khác",
+        "Position": "Position",
+        "Role": "Role",
+        "image": "Avatar",
+        "save": "Save new user",
+        "edit": "Update user"
+    },
+    "homepage": {
+        "out-standing-doctor": "Out standing doctor",
+        "popular-specialties": "Popular specialties",
+        "Outstanding-medical-facility": "Outstanding medical facility",
+        "Handbook": "Handbook",
+        "Media-talk-about": "Media take about BOOKING CARE"
+    },
+    "manage-schedule": {
+        "title": "Manage doctor's examination plan ",
+        "choose-doctor": "Choose docter",
+        "choose-date": "Choose date",
+        "save": "Save"
+    },
+    "patient": {
+        "detail-doctor": {
+            "schedule": "Schedule",
+            "no-schedule": "No doctor's appointment",
+            "choose": "Choose and book an appointment     "
+        },
+        "extra-infor": {
+            "ADDRESS": "ADDRESS OF EXAMINATION",
+            "PRICE": "EXAMINATION PRICE",
+            "See-details": "See details",
+            "tt1": "Get priority medical care before visiting through BookingCare. The price of medical examination for foreigners is 30 USD",
+            "tt2": "The patient can pay the cost in the form of:",
+            "Hide": "Hide price list"
+        },
+        "bookingModale": {
+            "tt1": "Information to book a medical appointment",
+            "price": "Examination price: ",
+            "name": "Full name",
+            "phone": "Phone",
+            "email": "Email",
+            "address": "Address",
+            "birthdate": "Birthdate",
+            "sex": "Sex",
+            "reason": "Reason",
+            "Cancel": "Cancel",
+            "Confirm": "Confirm",
+            "Free-booking": "Free booking"
+        }
+    },
+    "admin": {
+        "manage-doctor": {
+            "title": "CREATE INFOR DOCTOR",
+            "choose": "Select doctor information",
+            "infor": "Introductory information",
+            "add": "Edit infor",
+            "create": "Save infor",
+            "choose-price": "Choose price",
+            "Select-payment": "Select a payment",
+            "Choose-a-province": "Choose a province",
+            "Clinic-name": "Clinic name",
+            "Address": "Address",
+            "Note": "Note"
+        }
+    }
+}

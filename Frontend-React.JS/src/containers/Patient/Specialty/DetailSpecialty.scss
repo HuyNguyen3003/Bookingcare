@@ -1,0 +1,81 @@
+.containent {
+    margin-top: 30px;
+    background-color: #f0ededc4;
+    // overflow: visible | hidden | scroll | auto | inherit
+}
+
+.description-specialt {
+    background-color: white;
+
+
+    padding: 10px 100px;
+
+    h1,
+    h2,
+    h3 {
+        font-size: 16px;
+        font-weight: 600px;
+    }
+}
+
+.Search-Doctor {
+    margin: 20px 40px;
+
+    select {
+        height: 30px;
+        padding: 5px 8px;
+        border: none;
+        outline: none;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+}
+
+
+.each-doctor {
+
+    display: flex;
+
+    min-height: 200px;
+    margin: 30px 0px 30px 60px;
+
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 1px 6px #20212447;
+
+
+
+
+    .content-left {
+        width: 30%;
+
+        .doctor-infor {
+            height: 40%;
+            padding: 10px;
+            height: 100%;
+            margin: 10px;
+
+        }
+
+
+    }
+
+    .content-rights {
+        display: flex;
+        margin-left: 260px;
+        padding-left: 20px;
+        width: 70%;
+        min-height: 200px;
+        margin-top: 25px;
+
+
+
+    }
+}
+
+.View-detail-doctor {
+    padding-top: 10px;
+    cursor: pointer;
+
+}

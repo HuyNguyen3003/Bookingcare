@@ -1,0 +1,73 @@
+.section-specialty {
+
+    padding: 2px;
+    margin-bottom: 5px;
+    height: 330px;
+    width: 75%;
+    margin: auto;
+    background-color: #fff7f7da;
+
+
+    .img-one {
+        display: flex !important;
+
+
+    }
+
+    .img-wapper {
+        padding: 50px 0;
+        display: block !important;
+
+
+        .img-1 {
+            height: 72%;
+            display: flex !important;
+            padding-bottom: 20px;
+        }
+
+
+
+    }
+
+    .font-1 {
+        padding-left: 60px;
+        font-size: 16px;
+        display: flex !important;
+        cursor: pointer;
+
+        &:hover {
+            color: aqua;
+        }
+
+    }
+
+
+
+    button.slick-arrow.slick-next {
+        margin: 18vh 13vh 0 0;
+
+    }
+
+    button.slick-arrow.slick-prev {
+        margin: 18vh 0px 0px 9vh;
+
+    }
+
+    .slick-prev:before {
+        color: red;
+        font-size: 40px;
+    }
+
+    .slick-next:before {
+        color: rebeccapurple;
+        font-size: 40px;
+    }
+}
+
+.font-content {
+    h1 {
+        font-size: 22px;
+        font-weight: 600;
+        margin: 2px;
+    }
+}

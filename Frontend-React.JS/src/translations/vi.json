@@ -1,0 +1,129 @@
+{
+    "menu": {
+        "system": {
+            "header": "Hệ thống",
+            "system-administrator": {
+                "header": "Quản trị hệ thống",
+                "user-manage": "Quản lý người sử dụng",
+                "user-redux": "Quản lý người dùng redux",
+                "register-package-group-or-account": "Đăng ký gói dịch vụ cho nhóm/tài khoản"
+            },
+            "system-parameter": {
+                "header": "Tham số hệ thống"
+            }
+        },
+        "admin": {
+            "manage-user": "Quản lí",
+            "manage-docter": "Quản lí bác sĩ",
+            "manage-admin": "Quản lí admin",
+            "crud": "crud user",
+            "crud-redux": "crud user redux",
+            "manage-clinic": "Quản lí phòng khám",
+            "manage-post": "Quản lí bài đăng",
+            "clinic": "Phòng khám",
+            "post": "Bài đăng",
+            "specialty": "Chuyên khoa",
+            "manage-specialty": "Quản lí chuyên khoa"
+        },
+        "doctor": {
+            "manage-schedule": "Quản lí kế hoạch khám bệnh",
+            "manage-patient": "Quản lí bệnh nhân"
+        }
+    },
+    "homeheader": {
+        "speciality": "Chuyên khoa",
+        "search-docter": "Tìm kiếm bác sĩ theo chuyên khoa",
+        "Health-facilitie": "Cơ sở y tế",
+        "Docter": "Bác sĩ",
+        "health-check": "Gói khám sức khỏe",
+        "Choose-clinic": "Chọn phòng khám",
+        "Choose-good-doctor": "Chọn bác sĩ giỏi",
+        "health-check-full": "Kiểm tra sức khỏe tổng quát",
+        "suport": "Hỗ trợ",
+        "welcome": "Xin Chào"
+    },
+    "banner": {
+        "title1": "NỀN TẢNG Y TẾ",
+        "title2": "CHĂM SÓC SỨC KHỎE TOÀN DIỆN",
+        "search": "Tìm chuyên khoa khám bệnh ",
+        "child1": "Khám chuyên khoa ",
+        "child2": "Khám từ xa ",
+        "child3": "Xét nghiệm y học",
+        "child4": "Sức khỏe tinh thần",
+        "child5": "Khám nha khoa"
+    },
+    "manageuser": {
+        "add": "Thêm mới người dùng",
+        "phone": "Số điện thoại",
+        "address": "Địa chỉ",
+        "firstName": "Họ",
+        "lastName": "Tên",
+        "password": "Mật khẩu",
+        "gender": "Giới tính",
+        "1": "Nam",
+        "2": "Nữ",
+        "3": "Khác",
+        "Position": "Chức danh",
+        "Role": "Vai trò",
+        "image": "Ảnh đại diện",
+        "save": "Lưu người dùng",
+        "edit": "Cập nhập lại người dùng"
+    },
+    "homepage": {
+        "out-standing-doctor": "Bác sĩ nội bật tuần qua",
+        "popular-specialties": "Chuyên khoa phổ biến",
+        "Outstanding-medical-facility": "Cơ sở y tế nổi bật",
+        "Handbook": "Cẩm nang",
+        "Media-talk-about": "Truyền thông nói gì về BOOKING CARE"
+    },
+    "manage-schedule": {
+        "title": "Quản lí kế hoạch khám bệnh của bác sĩ",
+        "choose-doctor": "Chọn bác sĩ",
+        "choose-date": "Chọn ngày",
+        "save": "Lưu thông tin"
+    },
+    "patient": {
+        "detail-doctor": {
+            "schedule": "Lịch khám",
+            "no-schedule": "Bác sĩ không có lịch Khám vào thời gian này",
+            "choose": "Chọn và đặt lịch khám (miễn phí)  "
+        },
+        "extra-infor": {
+            "ADDRESS": "ĐỊA CHỈ KHÁM",
+            "PRICE": "GIÁ KHÁM",
+            "See-details": "Xem chi tiết",
+            "tt1": "Được ưu tiên khám trước khi đật khám qua BookingCare. Giá khám cho người nước ngoài là 300.000đ",
+            "tt2": "Người bệnh có thể thanh toán chi phí bằng hình thức: ",
+            "Hide": "Ẩn bảng giá"
+        },
+        "bookingModale": {
+            "tt1": "Thông tin đặt lịch khám bệnh",
+            "price": "Giá khám: ",
+            "name": "Họ và tên",
+            "phone": "Số điện thoại",
+            "email": "Email",
+            "address": "Địa chỉ",
+            "birthdate": "Ngày sinh",
+            "sex": "Giới tính",
+            "reason": "Lí do khám",
+            "Cancel": "Hủy",
+            "Confirm": "Xác nhận",
+            "Free-booking": "Miễn phí đặt lịch"
+        }
+    },
+    "admin": {
+        "manage-doctor": {
+            "title": "TẠO THÔNG TIN DOCTOR",
+            "choose": "Chọn thông tin bác sĩ",
+            "infor": "Thông tin giới thiệu",
+            "add": "Sửa thông tin",
+            "create": "Lưu thông tin",
+            "choose-price": "Chọn giá",
+            "Select-payment": "Chọn Phương thức thanh toán",
+            "Choose-a-province": "Chọn tỉnh thành",
+            "Clinic-name": "Tên phòng khám",
+            "Address": "Địa chỉ",
+            "Note": "Gi chú"
+        }
+    }
+}

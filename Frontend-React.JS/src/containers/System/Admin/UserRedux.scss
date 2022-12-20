@@ -1,0 +1,26 @@
+.preview-img-container{
+  
+
+.show{
+    width: 200px;
+    height: 100px;
+    background: center center no-repeat;
+    background-size: contain;
+
+}
+    .lable-upload {
+        display: flex;
+        width: 100px;
+        border-radius: 5%;
+            padding: 5px;
+            background-color: #b1b1b169;
+            cursor: pointer;
+            &:hover{
+                opacity: 0.8;
+            }
+        }
+        .logo{
+            padding: 5px;
+        }
+
+}
