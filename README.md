@@ -4,7 +4,7 @@ Clone full web Bookingcare
 + - Giao diện trang web
 + - Chức năng đặt lịch khám bệnh ( nhận mail và onclick để xác nhận) 
 + BE
-+ - Modle DB
++ - Model DB
 + - Api
 ( Đăng kí, đăng nhập, gửi mail, quản lí user + lịch khám bệnh qua giao diện)
 
