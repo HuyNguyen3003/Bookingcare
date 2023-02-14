@@ -1,9 +1,9 @@
 # Fullstack-SERN
 Clone full web Bookingcare
-+-FE
++ -FE
 + Giao diện trang web
 + Chức năng đặt lịch khám bệnh ( nhận mail và onclick để xác nhận) 
-+-BE
++ -BE
 + Modle DB
 + Api
 ( Đăng kí, đăng nhập, gửi mail, quản lí user + lịch khám bệnh qua giao diện)
