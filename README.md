@@ -1,5 +1,5 @@
-# Fullstack-SERN
-Clone full web Bookingcare
+# Bookingcare
+Fullstack-SERN
 + FE
 + - Giao diện trang web ( tùy chọn xem bằng tiếng anh hoặc tiếng việt)
 + - Chức năng đặt lịch khám bệnh ( nhận mail và onclick để xác nhận) 
@@ -8,14 +8,13 @@ Clone full web Bookingcare
 + - Model DB
 + - Api
 ( Đăng kí, đăng nhập, gửi mail, quản lí user + lịch khám bệnh qua giao diện)
-
++ ---------------------------------------------
 + Scss, react, redux, react bootstrap, nodejs, express, sequelize. 
 + ---------------------------------------------
 install db
 install fe: npm i, npm start
 install be: npm i, npm start
 + ---------------------------------------------
-+ Ảnh từ pj
 ![image](https://user-images.githubusercontent.com/94001149/218749065-a481def4-2887-4297-b771-c32cfb4f39f6.png)
 ![image](https://user-images.githubusercontent.com/94001149/218749428-82c2cea7-9c89-49f8-a3d9-ff575c252cf0.png)
 ![image](https://user-images.githubusercontent.com/94001149/218749524-4595df56-accf-47a8-8fd5-1776bc9759f5.png)
