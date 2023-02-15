@@ -1,5 +1,5 @@
 # Bookingcare
-Fullstack-SERN
++ SERN Stack
 + FE
 + - Giao diện trang web ( tùy chọn xem bằng tiếng anh hoặc tiếng việt)
 + - Chức năng đặt lịch khám bệnh ( nhận mail và onclick để xác nhận) 
